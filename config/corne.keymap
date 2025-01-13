@@ -85,7 +85,7 @@
         };
 
         MouseLayer {
-            bindings = <&sl 2>;
+            bindings = <&tog 2>;
             key-positions = <27 32>;
         };
     };
